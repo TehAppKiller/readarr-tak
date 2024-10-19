@@ -6,6 +6,7 @@ Canonical Snap for Readarr\
 https://snapcraft.io/readarr-tak
 
 ## Readarr Description
+<img src="/icon.svg" width="100">
 Readarr is an ebook and audiobook collection manager for Usenet and BitTorrent users.
 It can monitor multiple RSS feeds for new books from your favorite authors 
 and will grab, sort, and rename them. Note that only one type 
