@@ -1,5 +1,7 @@
 # readarr-tak
 [![readarr-tak](https://snapcraft.io/readarr-tak/badge.svg)](https://snapcraft.io/readarr-tak)
+![snap arch](https://badgen.net/snapcraft/architecture/readarr-tak)
+![snap size](https://badgen.net/snapcraft/size/readarr-tak/amd64/stable)
 
 ## Snap Description
 Canonical Snap for Readarr\
