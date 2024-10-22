@@ -15,7 +15,7 @@ and will grab, sort, and rename them. Note that only one type
 of a given book is supported. If you want both an audiobook and ebook 
 of a given book you will need multiple instances.
 
-See https://readarr.video for more details.
+See https://readarr.com for more details.
 
 ## Information
 
@@ -31,12 +31,11 @@ sudo snap connect readarr-tak:removable-media
 sudo snap connect readarr-tak:mount-observe
 ```
 
-Post install commands required to access home folder :
-```
-sudo snap connect readarr-tak:home
-```
 **!!! Files can only be written in a directory owned by 'root' !!!**\
-This is due to current behavior and restrictions of snaps running as daemon by Canonical.
+**!!! Home base directory content is not readable !!!**
+
+This is due to current behavior and restrictions of snaps by Canonical.\
+Check common doc in FAQ if you want to setup data in /home directory.
 
 ## FAQ
 See my common doc about [FAQ](https://github.com/TehAppKiller/Snapcraft-common-doc/tree/main#FAQ).
