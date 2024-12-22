@@ -162,7 +162,6 @@ parts:
       - libnuma1
       - sqlite3
       - libicu74
-      - ca-certificates
     prime:
       - usr/bin/sqlite*
       - usr/lib/$CRAFT_ARCH_TRIPLET_BUILD_FOR/*.so*
