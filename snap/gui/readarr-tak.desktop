@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Readarr-tak
+Comment=Open webUI
+Type=Application
+Exec=readarr-tak
+Icon=${SNAP}/meta/gui/icon.svg
